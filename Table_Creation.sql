@@ -2,7 +2,7 @@
 
 Create table PRODUCT
 (ProdID      integer primary key,
- Description varchar(50) Not null,
+ Description varchar(50) Not Null,
  Price       decimal(5,2));
 
 insert into PRODUCT values (100860, 'ace tennis racket I',65.00);
